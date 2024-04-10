@@ -31,7 +31,3 @@ O arquivo CSS fornece estilos e formatação para tornar a página visualmente a
 1. Abra o arquivo `index.html` em seu navegador da web preferido.
 2. Explore a página de tributo ao The Beatles para aprender mais sobre a banda.
 3. Clique no link fornecido no rodapé para saber mais sobre os Beatles na Wikipedia.
-
-Desfrute da jornada através da história musical dos Beatles!
-
-🚀 Viva o rock 'n' roll! 🚀
